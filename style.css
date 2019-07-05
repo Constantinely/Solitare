@@ -1,0 +1,44 @@
+body{
+    background-color:#dadcac;
+    font-family: "Times New Roman";
+    font-size: 18pt;
+    color: white ;
+}
+
+img{
+    overflow:visible;
+    height: 100px;
+    width:70px;
+    position:absolute;
+}
+
+
+
+#finalField{
+    border:4px groove #045e19;
+    height:150px;
+    width:356px;
+    margin-left:500px;
+    background-color:#a4d3f0;
+}
+
+#fieldForLayCards{
+    clear:left;
+    margin-left:100px;
+    margin-top:100px;
+}
+
+#gameField{
+    width:85%;
+    height:100%; 
+}
+
+
+div.emptySpaceForCard{  
+    position: static    ;
+    height: 100px;
+    width:70px;
+    border:2px dashed#045e19;
+    float:left;
+    margin:25px 10px 5px 5px
+}
