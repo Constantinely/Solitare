@@ -1,1 +1,1 @@
-Solitare game using html, css, javascript. Play - constantinely.github.io
+Solitare game using html, css, javascript. Play - https://constantinely.github.io/Solitare/
